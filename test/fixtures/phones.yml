@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cphone: MyString
+  hphone: MyString
+  wphone: MyString
+  user: one
+
+two:
+  cphone: MyString
+  hphone: MyString
+  wphone: MyString
+  user: two
